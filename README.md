@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./profile.jpeg" width="180">
-</p>
+</p> -->
 # 👋 Hi, I'm Vedansh Kumar
 
 **B.Tech CSE-AIML Student | Software Developer | AI/ML Enthusiast**
