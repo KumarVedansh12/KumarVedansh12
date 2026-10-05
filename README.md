@@ -1,7 +1,7 @@
 <!-- <p align="center">
   <img src="./profile.jpeg" width="180">
 </p> -->
-# 👋 Hi, I'm Vedansh Kumar
+# 👋 Hi, I'm Kumar Vedansh
 
 **B.Tech CSE-AIML Student | Software Developer | AI/ML Enthusiast**
 
