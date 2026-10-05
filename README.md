@@ -139,8 +139,7 @@ My GitHub statistics and contribution graphics are automatically generated from 
 ## 🤝 Let's Connect
 
 * GitHub: [@KumarVedansh12](https://github.com/KumarVedansh12)
-* LinkedIn: Add your LinkedIn profile here
-
+* LinkedIn: https://www.linkedin.com/in/kumar-vedansh-6404b9307
 ---
 
 <p align="center">
